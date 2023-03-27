@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/edgarskairans/shoppingList/static/css/main.67ae9e7e.css",
-    "main.js": "/edgarskairans/shoppingList/static/js/main.71fdfb91.js",
-    "index.html": "/edgarskairans/shoppingList/index.html",
-    "main.67ae9e7e.css.map": "/edgarskairans/shoppingList/static/css/main.67ae9e7e.css.map",
-    "main.71fdfb91.js.map": "/edgarskairans/shoppingList/static/js/main.71fdfb91.js.map"
+    "main.css": "/shoppingList/static/css/main.67ae9e7e.css",
+    "main.js": "/shoppingList/static/js/main.71fdfb91.js",
+    "index.html": "/shoppingList/index.html",
+    "main.67ae9e7e.css.map": "/shoppingList/static/css/main.67ae9e7e.css.map",
+    "main.71fdfb91.js.map": "/shoppingList/static/js/main.71fdfb91.js.map"
   },
   "entrypoints": [
     "static/css/main.67ae9e7e.css",
