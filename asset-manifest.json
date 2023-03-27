@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EdgarsKairans/shoppongList.git/static/css/main.67ae9e7e.css",
+    "main.js": "/EdgarsKairans/shoppongList.git/static/js/main.71fdfb91.js",
+    "index.html": "/EdgarsKairans/shoppongList.git/index.html",
+    "main.67ae9e7e.css.map": "/EdgarsKairans/shoppongList.git/static/css/main.67ae9e7e.css.map",
+    "main.71fdfb91.js.map": "/EdgarsKairans/shoppongList.git/static/js/main.71fdfb91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ae9e7e.css",
+    "static/js/main.71fdfb91.js"
+  ]
+}
