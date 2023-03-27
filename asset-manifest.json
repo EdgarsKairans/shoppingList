@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/EdgarsKairans/shoppingList.git/static/css/main.67ae9e7e.css",
-    "main.js": "/EdgarsKairans/shoppingList.git/static/js/main.71fdfb91.js",
-    "index.html": "/EdgarsKairans/shoppingList.git/index.html",
-    "main.67ae9e7e.css.map": "/EdgarsKairans/shoppingList.git/static/css/main.67ae9e7e.css.map",
-    "main.71fdfb91.js.map": "/EdgarsKairans/shoppingList.git/static/js/main.71fdfb91.js.map"
+    "main.css": "/edgarskairans/shoppingList.git/static/css/main.67ae9e7e.css",
+    "main.js": "/edgarskairans/shoppingList.git/static/js/main.71fdfb91.js",
+    "index.html": "/edgarskairans/shoppingList.git/index.html",
+    "main.67ae9e7e.css.map": "/edgarskairans/shoppingList.git/static/css/main.67ae9e7e.css.map",
+    "main.71fdfb91.js.map": "/edgarskairans/shoppingList.git/static/js/main.71fdfb91.js.map"
   },
   "entrypoints": [
     "static/css/main.67ae9e7e.css",
